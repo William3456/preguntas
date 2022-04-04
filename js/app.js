@@ -21,7 +21,7 @@ function inicio(){
     swal.fire({
       title: "Bienvenido",
       html:
-        "<li>Para jugar unicamente debes responder a la pregunta con una de las opciones.</li>",
+        "<li>Para jugar únicamente debes responder a la pregunta con una de las opciones.</li>",
       icon: "success"
     });
 }
@@ -75,13 +75,13 @@ function escogerPreguntaAleatoria() {
     if (npreguntas.length == interprete_bp.length) {
       //Aquí es donde el juego se reinicia
       if (mostrar_pantalla_juego_términado) {
-        alerta();
-        /*swal.fire({
+      
+        swal.fire({
           title: "Juego finalizado",
           html:
             "Puntuación: " + preguntas_correctas + "/" + (preguntas_hechas) + "<br>Inciando ronda: " + parseInt(ronda + 1) + "...",
           icon: "success"
-        });*/
+        });
       }
       if (reiniciar_puntos_al_reiniciar_el_juego) {
         preguntas_correctas = 0
