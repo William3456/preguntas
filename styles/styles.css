@@ -33,11 +33,9 @@ body {
 .fuente {
     font-family: 'Fredoka', sans-serif;
 }
-.pruebas{
-    
-}
-.prueba3{
-    
+
+.swal2-html-container {
+    font-family: 'Fredoka', sans-serif;
 }
 .btn-outline-primary{
     border-radius: 25px !important;
