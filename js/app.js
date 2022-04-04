@@ -1,3 +1,4 @@
+var btnNext = select_id("btnNext");
 function alerta(){
   Swal.fire({
     title: 'ola presiosabonitahermosa teamo mucho',
@@ -60,6 +61,7 @@ let preguntas_correctas = 0;
 
 function escogerPreguntaAleatoria() {
   deshabilitarBtn();
+  $(btnNext).addClass("disabled");
   let n;
   if (preguntas_aleatorias) {
     n = Math.floor(Math.random() * interprete_bp.length);
@@ -128,6 +130,7 @@ function escogerPregunta(n) {
       select_id("imagen").setAttribute("src", "");
     }, 500);
   }
+ 
   habilitarBtn();
 }
 
@@ -153,6 +156,8 @@ function oprimir_btn(i, element) {
   if (suspender_botones) {
     return;
   }
+  $(btnNext).removeClass("disabled");
+ 
   element.blur();
   deshabilitarBtn();
   suspender_botones = true;
@@ -168,11 +173,6 @@ function oprimir_btn(i, element) {
       break;
     }
   }
-  setTimeout(() => {
-    reiniciar();
-    suspender_botones = false;
-    habilitarBtn();
-  }, 2000);
 }
 
 // let p = prompt("numero")
@@ -202,4 +202,12 @@ function readText(ruta_local) {
     texto = xmlhttp.responseText;
   }
   return texto;
+}
+function siguientePregunta(element){
+  btnNext.blur();
+  if(suspender_botones){
+    reiniciar();
+    suspender_botones = false;
+    habilitarBtn();
+  }
 }
