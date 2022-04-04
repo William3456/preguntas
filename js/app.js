@@ -143,10 +143,10 @@ function desordenarRespuestas(pregunta) {
   ];
   posibles_respuestas.sort(() => Math.random() - 0.5);
 
-  select_id("btn1").innerHTML = posibles_respuestas[0];
-  select_id("btn2").innerHTML = posibles_respuestas[1];
-  select_id("btn3").innerHTML = posibles_respuestas[2];
-  select_id("btn4").innerHTML = posibles_respuestas[3];
+  select_id("textoPregun1").innerHTML = posibles_respuestas[0];
+  select_id("textoPregun2").innerHTML = posibles_respuestas[1];
+  select_id("textoPregun3").innerHTML = posibles_respuestas[2];
+  select_id("textoPregun4").innerHTML = posibles_respuestas[3];
 }
 
 let suspender_botones = false;
