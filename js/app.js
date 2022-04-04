@@ -204,10 +204,11 @@ function readText(ruta_local) {
   return texto;
 }
 function siguientePregunta(element){
-  btnNext.blur();
+  
   if(suspender_botones){
     reiniciar();
     suspender_botones = false;
     habilitarBtn();
   }
+  btnNext.blur();
 }
