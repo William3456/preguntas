@@ -1,0 +1,194 @@
+[
+    {
+        "categoria": "Arte",
+        "pregunta": "La música que está caracterizada por tener muchos arreglos es:",
+        "respuesta": "Barroca",
+        "incorrecta1": "Clasicismo",
+        "incorrecta2": "Romanticismo",
+        "incorrecta3": "Ilustración"
+    },
+    {
+        "categoria": "Educación",
+        "pregunta": "¿Cuál de estas opciones es una base de la educación?",
+        "respuesta": "Autopraxia",
+        "incorrecta1": "Autocrítica",
+        "incorrecta2": "Autonómico",
+        "incorrecta3": "Autópsida"
+    },
+    {
+        "categoria": "Arte",
+        "pregunta": "Este tipo de arquitectura no tiene tantos adornos, se aprecian la figura geométrica y la simetría",
+        "respuesta": "Clasicismo",
+        "incorrecta1": "Ilustración",
+        "incorrecta2": "Barroco",
+        "incorrecta3": "Romanticismo"
+    },
+    {
+        "categoria": "Educación",
+        "pregunta": "¿Cuál de las siguientes etapas de desarrollo fomenta el juicio?",
+        "respuesta": "Infancia",
+        "incorrecta1": "Adolescencia",
+        "incorrecta2": "Mocedad",
+        "incorrecta3": "Prematuro"
+    },
+    {
+        "categoria": "Arte",
+        "pregunta": "Este tipo de música parece de suspenso",
+        "respuesta": "Barroco",
+        "incorrecta1": "Ilustración",
+        "incorrecta2": "Romanticismo",
+        "incorrecta3": "Clasicismo"
+    },
+    {
+        "categoria": "Personajes",
+        "pregunta": "Este personaje hace las siguientes aportaciones: la ley de gravedad, ley de inercia, ley de causa y efecto",
+        "respuesta": "Isaac Newton",
+        "incorrecta1": "Comenio",
+        "incorrecta2": "Galileo Galilei",
+        "incorrecta3": "Ratke"
+    },
+    {
+        "categoria": "Educación",
+        "pregunta": "¿Qué etapa de desarrollo sigue intereses naturales y los modelos de Robinson?",
+        "respuesta": "Adolescencia",
+        "incorrecta1": "Infancia",
+        "incorrecta2": "Mocedad",
+        "incorrecta3": "Prematuro"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿En qué siglo se dió la ilustración?",
+        "respuesta": "XVII",
+        "incorrecta1": "XX",
+        "incorrecta2": "XIV",
+        "incorrecta3": "XV"
+    },
+     {
+        "categoria": "Historia",
+        "pregunta": "¿Entre qué siglos se dió la ciencia clásica?",
+        "respuesta": "XVII y XVIII",
+        "incorrecta1": "XIX y XX",
+        "incorrecta2": "XIV y XV",
+        "incorrecta3": "XV y XVI"
+    },
+    {
+        "categoria": "Educación",
+        "pregunta": "¿Cuál de las siguientes es una característica de la educación en la ilustración?",
+        "respuesta": "Se considera que todo se puede lograr a través de la razón",
+        "incorrecta1": "Que todos pudieran leer",
+        "incorrecta2": "Que solo los hombres tuvieran educación",
+        "incorrecta3": "Ser más ilustres"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "Este personaje desarrolló la física y sobre todo lo mecánico",
+        "respuesta": "Isaac Newton",
+        "incorrecta1": "Comenio",
+        "incorrecta2": "Galileo Galilei",
+        "incorrecta3": "Cristobal Colón"
+    },
+    {
+        "categoria": "Personajes",
+        "pregunta": "¿Quién es considerado el creador de la educación moderna?",
+        "respuesta": "Comenio",
+        "incorrecta1": "Isaac Newton",
+        "incorrecta2": "Galileo Galilei",
+        "incorrecta3": "Rousseau"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿Dónde surgió la ilustración?",
+        "respuesta": "Inglaterra",
+        "incorrecta1": "México",
+        "incorrecta2": "Francia",
+        "incorrecta3": "Rusia"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿Dónde tomó más fuerza la ilustración?",
+        "respuesta": "Francia",
+        "incorrecta1": "México",
+        "incorrecta2": "Inglaterra",
+        "incorrecta3": "Rusia"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿En qué siglo predomina la racionalización?",
+        "respuesta": "XVIII",
+        "incorrecta1": "XVII",
+        "incorrecta2": "XVI",
+        "incorrecta3": "XV"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿De qué otra manera se le denomina a la ilustración?",
+        "respuesta": "Siglo de las luces",
+        "incorrecta1": "Siglo de Napoleón",
+        "incorrecta2": "Siglo de autoridad",
+        "incorrecta3": "Siglo de la razón"
+    },
+    {
+        "categoria": "Personajes",
+        "pregunta": "¿Qué autor está en contra de la frase: \"la letra con sangre entra\"?",
+        "respuesta": "Comenio",
+        "incorrecta1": "Ratke",
+        "incorrecta2": "Rousseau",
+        "incorrecta3": "Francois Rabelais"
+    },
+    {
+        "categoria": "Personajes",
+        "pregunta": "Este autor asegura que el niño no se debe contaminar de la sociedad",
+        "respuesta": "Rousseau",
+        "incorrecta1": "Comenio",
+        "incorrecta2": "Ratke",
+        "incorrecta3": "Francois Rabelais"
+    },
+    {
+        "categoria": "Educación",
+        "pregunta": "¿Cuál es una de las bases de la didáctica de Ratke?",
+        "respuesta": "Aprender de las cosas mismas",
+        "incorrecta1": "Que se aprenda lo más difícil primero",
+        "incorrecta2": "Que se aprenda lo más fácil primero",
+        "incorrecta3": "Aprender con golpes"
+    },
+    {
+        "categoria": "Educación",
+        "pregunta": "¿Cuántas etapas tiene el desarrollo según Comenio?",
+        "respuesta": "Cuatro",
+        "incorrecta1": "Tres",
+        "incorrecta2": "Dos",
+        "incorrecta3": "Cinco"
+    },
+    {
+        "categoria": "Prsonajes",
+        "pregunta": "Son considerados como unos de los fundadores de la didáctica",
+        "respuesta": "Ratke y Comenio",
+        "incorrecta1": "Isaac Newton y Comenio",
+        "incorrecta2": "Comenio y Rousseau",
+        "incorrecta3": "Galileo y Newton"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿Cuál era la idea de la ilustración?",
+        "respuesta": "Combatir la ignorancia, la superstición y la tiranía",
+        "incorrecta1": "Ser ilustres",
+        "incorrecta2": "Ser más educado",
+        "incorrecta3": "Tener juicio sobre las personas"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "En esta organización se plantea a la soberanía como la capacidad de gobernar un pueblo",
+        "respuesta": "Absolutismo",
+        "incorrecta1": "Contractualismo",
+        "incorrecta2": "Enciclopedismo",
+        "incorrecta3": "Ilustración"
+    },
+    {
+        "categoria": "Educación",
+        "pregunta": "¿Qué etapa del desarrollo fomenta la educación moral y el conocimiento de sí mismo?",
+        "respuesta": "Mocedad",
+        "incorrecta1": "Adolescencia",
+        "incorrecta2": "Infancia",
+        "incorrecta3": "Prematuro"
+    }
+]
