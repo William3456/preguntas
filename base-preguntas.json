@@ -1,9 +1,9 @@
 [
     {
         "categoria": "Ciencias Naturales",
-        "pregunta": "¿Cuántas etapas tiene la fotosíntesis?",
-        "respuesta": "Cuatro",
-        "incorrecta1": "Dos",
+        "pregunta": "¿Cuántas etapas (principales) tiene la fotosíntesis?",
+        "respuesta": "Dos",
+        "incorrecta1": "Cuatro",
         "incorrecta2": "Cinco",
         "incorrecta3": "Tres"
     },
@@ -49,7 +49,7 @@
     },
     {
         "categoria": "Ciencias Naturales",
-        "pregunta": "¿Qué se comnina durante la fotosíntesis?",
+        "pregunta": "¿Qué se combina durante la fotosíntesis?",
         "respuesta": "Agua y dióxido de carbono",
         "incorrecta1": "La luz solar y el polen",
         "incorrecta2": "Oxígeno y nitrógeno",
