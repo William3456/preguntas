@@ -1,23 +1,4 @@
 var btnNext = select_id("btnNext");
-function alerta(){
-  Swal.fire({
-    title: 'ola presiosabonitahermosa teamo mucho',
-    width: 600,
-  
-    html:
-    "<hr class='m-0 mb-2 fw-bold'>¿Te gustaría ser mi novia? <br>" + 
-    "<img src='https://media1.giphy.com/media/wNk71OcVtOPncxNHVT/giphy.gif?cid=6c09b952vxx5649ws2nrz09zickjredvz4x4lz08uzh2xfdp&rid=giphy.gif&ct=s' width='100'>",
-    icon: "question", 
-    color: '#716add',
-    background: '#fff url(/images/trees.png)',
-    backdrop: `
-      rgba(0,0,123,0.4)
-      url("https://sweetalert2.github.io/images/nyan-cat.gif")
-      left top
-      no-repeat
-    `
-  })
-}
 function inicio(){
     swal.fire({
       title: "Bienvenido",
