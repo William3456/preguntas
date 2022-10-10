@@ -7,6 +7,7 @@ function inicio(){
       icon: "success"
     });
 }
+
 function deshabilitarBtn(){
   var botones = document.querySelectorAll("button");
   $(botones).addClass("disabled");
